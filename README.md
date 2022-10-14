@@ -26,6 +26,6 @@
           
  ## 
    
- ![Snake animation](https://github.com/{ name: Matheus }/{ name: Matheus }/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MatheushVinha/MatheushVinha/blob/output/github-contribution-grid-snake.svg)
  
 </div>
